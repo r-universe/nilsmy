@@ -8,3 +8,13 @@
 	url = https://github.com/nilsmy/amctestmaker
 	shallow = true
 	registered = true
+[submodule "jrt"]
+	path = jrt
+	url = https://github.com/cran/jrt
+	shallow = true
+	registered = true
+[submodule "nhstplot"]
+	path = nhstplot
+	url = https://github.com/cran/nhstplot
+	shallow = true
+	registered = true
